@@ -1,0 +1,32 @@
+(0, 'w4', 57, '35.625J')
+(57, 'w2', 97, '25.0J')
+(97, 'w5', 132, '21.875J')
+(132, 'w3', 236, '65.0J')
+(236, 'w1', 289, '33.125J')
+(289, 'w4', 346, '35.625J')
+(346, 'w2', 386, '25.0J')
+(386, 'w5', 421, '21.875J')
+(421, 'w4', 478, '35.625J')
+(478, 'w2', 518, '25.0J')
+(518, 'w3', 622, '65.0J')
+(622, 'w4', 679, '35.625J')
+(679, 'w5', 714, '21.875J')
+(714, 'w1', 767, '33.125J')
+(767, 'w2', 807, '25.0J')
+(807, 'w4', 864, '35.625J')
+IDLE elapsed time is: 922
+IDLE elapsed time is: 927
+IDLE elapsed time is: 932
+IDLE elapsed time is: 937
+IDLE elapsed time is: 942
+IDLE elapsed time is: 947
+IDLE elapsed time is: 952
+IDLE elapsed time is: 957
+IDLE elapsed time is: 962
+IDLE elapsed time is: 967
+IDLE elapsed time is: 972
+IDLE elapsed time is: 977
+IDLE elapsed time is: 982
+IDLE elapsed time is: 987
+IDLE elapsed time is: 992
+IDLE elapsed time is: 997
